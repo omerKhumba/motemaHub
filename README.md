@@ -4,6 +4,7 @@ motemaHub est une plateforme numérique qui connecte les passionnés de technolo
 du numérique et les apprenants en quête de compétences.
 Elle permet à toute personne d'adhérer à distance, de valoriser son profil, de proposer des services dans son
 domaine, et de participer à des formations professionnelles organisées en collaboration avec des experts.
+Pour accéder à la plateforme voici le lien : https://www.motemahub.tech/
 # 2. Objectifs
 - Offrir un espace de visibilité aux talents du numérique.
 - Permettre l'accès à des formations de qualité dans divers domaines technologiques.
