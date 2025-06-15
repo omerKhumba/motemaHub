@@ -21,10 +21,10 @@ export default function Objectifs() {
   ];
 
   return (
-    <section className="container py-5">
+    <section  className="py-5">
         <div className='col-lg-10 m-auto' >
-            <h2 className="section-title">Nos Objectifs</h2>
-            <div className="row">
+            <h2 className="section-title text-center">Nos Objectifs</h2>
+            <div className="row p-5">
                 {objectifs.map((obj, index) => (
                 <div className="col-md-6 d-flex align-items-start mb-4" key={index}>
                     <div className="me-3">{obj.icon}</div>

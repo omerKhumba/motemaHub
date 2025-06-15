@@ -2,7 +2,7 @@ import aboutImage from '../../assets/tech.png'; // Ton image à gauche
 
 export default function Apropos() {
   return (
-    <section  className="container py-5">
+    <section  className=" py-5">
         <div className='col-10 m-auto' >
             <div className="row align-items-center">
                 {/* Image à gauche */}
@@ -13,8 +13,12 @@ export default function Apropos() {
                 {/* Texte à droite */}
                 <div className="col-md-6">
                 <h2 className="section-title">A propos de Nous</h2>
-                <p className="mb-4">
-                    <strong>motemaHub</strong> est une plateforme numérique qui connecte les passionnés de technologie, les professionnels du numérique et les apprenants en quête de compétences. Elle permet à toute personne…
+                <p className="mb-4 text-muted">
+                    <strong>motemaHub </strong> 
+                      est une plateforme numérique qui connecte les passionnés de technologie, les professionnels
+                    du numérique et les apprenants en quête de compétences.
+                    Elle permet à toute personne d'adhérer à distance, de valoriser son profil, de proposer des services dans son
+                    domaine, et de participer à des formations professionnelles organisées en collaboration avec des experts.
                 </p>
 
                 {/* Boutons */}

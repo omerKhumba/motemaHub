@@ -27,12 +27,3 @@ Page 1
 Présentation Officielle de motemaHub
 Backend : Firebase (Auth, Firestore, Storage, Hosting)
 Application mobile : React Native (en option future)
-# 6. Modèle économique
-- Formations certifiantes payantes.
-- Abonnement premium pour mise en avant des prestataires.
-- Commissions sur les prestations de service effectuées via la plateforme.
-- Sponsoring et partenariats avec des écoles, ONG ou institutions.
-# 7. Conclusion
-motemaHub est bien plus qu'une plateforme, c'est un mouvement pour valoriser les compétences locales,
-encourager l'entrepreneuriat numérique et bâtir une communauté de talents passionnés et solidaires.
-Page 2

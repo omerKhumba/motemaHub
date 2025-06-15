@@ -15,3 +15,9 @@ html,body,div,p,h1,h2,h3,h4,h5,h6,ul,li,a {
   color: #2c3e50;
   position: relative;
 }
+
+.container-fluid{
+  margin: 0px !important;
+  padding: 0px !important;
+  width: 100% !important;
+}

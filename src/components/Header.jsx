@@ -24,7 +24,7 @@ export default function Header() {
               <img src={logo} alt="MotemaHub Logo" style={{ width: '50px' }} />
             </div>
 
-            <div className="col d-flex justify-content-end align-items-center gap-3">
+            <div className="col d-flex justify-content-end align-items-center ">
               {isAuth ? (
                 <>
                   <p className="mb-0 fw-bold">Israël Khumba</p>
@@ -32,11 +32,11 @@ export default function Header() {
                 </>
               ) : (
                 <>
-                  <button className="auth-btn auth-btn-outline">
-                    Nous Rejoindre
+                  <button className="auth-btn auth-btn-outline mx-1">
+                    Inscription
                   </button>
                   <button className="auth-btn auth-btn-primary">
-                    Se connecter
+                    Connexion
                   </button>
                 </>
               )}

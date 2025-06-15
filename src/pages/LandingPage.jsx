@@ -8,15 +8,12 @@ export default function LandingPage()
 {
 
     return (
-        <div>
+        <div className="container-fluid" >
             <Header />
             <Hero />
-            
-            
             <Apropos />
-            
+            <Technologies /> 
             <Objectifs />
-            <Technologies />
         </div>
     )
 }
