@@ -9,7 +9,7 @@ export default function EffectifSection() {
 
   useEffect(() => {
     const fetchCount = async () => {
-      const count = 2000; // à remplacer par ton API plus tard
+      const count = 0; // à remplacer par ton API plus tard
       setMemberCount(count);
     };
     fetchCount();

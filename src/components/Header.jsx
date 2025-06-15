@@ -33,7 +33,7 @@ export default function Header() {
               <img src={logo} alt="MotemaHub Logo" style={{ width: '50px' }} />
             </div>
 
-            <div className="col">
+            <div className="col d-none d-md-block">
               <form onSubmit={handleSearch} className="d-flex">
                 <input
                   type="text"

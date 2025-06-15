@@ -18,7 +18,7 @@ export default function Technologies() {
   return (
     <section className="tech-section">
       <div className="container">
-        <h2 className="section-title">Les technologies que nous utilisons</h2>
+        <h2 className="section-title"> Notre passion : explorer les technologies</h2>
 
         <div className="tech-orbit">
           {technologies.map((tech, index) => (
